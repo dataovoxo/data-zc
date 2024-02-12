@@ -18,6 +18,7 @@ serving_dir
 # user specific
 02-workflow-orchestration/mage_data/
 02-workflow-orchestration/magic-zoomcamp/
-*.csv
+*.csv*
+*.parquet
 *.ipynb
 *mage-sa.json
