@@ -14,3 +14,10 @@
 serving_dir
 .ipynb_checkpoints/
 !week_6_stream_processing/avro_example/data/rides.csv
+
+# user specific
+02-workflow-orchestration/mage_data/
+02-workflow-orchestration/magic-zoomcamp/
+*.csv
+*.ipynb
+*mage-sa.json
